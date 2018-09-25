@@ -6,6 +6,8 @@ Access your Google Chrome history from Alfred with `ch {query}`.
 
 ## How to install
 
+### From pre-built workflow (easiest)
+
 [Download the workflow from the releases page][releases] and install by double-clicking it.
 
   [releases]: https://github.com/tupton/alfred-chrome-history/releases
